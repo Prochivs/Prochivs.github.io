@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prochivs/UploadFiles/static/css/main.e6c13ad2.css",
+    "main.js": "/Prochivs/UploadFiles/static/js/main.0f61c186.js",
+    "static/js/787.78411f10.chunk.js": "/Prochivs/UploadFiles/static/js/787.78411f10.chunk.js",
+    "index.html": "/Prochivs/UploadFiles/index.html",
+    "main.e6c13ad2.css.map": "/Prochivs/UploadFiles/static/css/main.e6c13ad2.css.map",
+    "main.0f61c186.js.map": "/Prochivs/UploadFiles/static/js/main.0f61c186.js.map",
+    "787.78411f10.chunk.js.map": "/Prochivs/UploadFiles/static/js/787.78411f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f61c186.js"
+  ]
+}
